@@ -1,6 +1,6 @@
 ### Salve 🇧🇷
 
-**Me chamo Priscylla Maia** e sou a ✨ _carioca_ ✨ 
+**Me chamo Priscylla Maia** e sou  ✨ _carioca_ ✨ 
 
 - Estou estudando no [alura ](https://.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
